@@ -1,5 +1,6 @@
 ﻿Console.WriteLine("Hello, World!");
 
+Console.WriteLine("Menu");
 
 double Suma(double num1, double num2)
 {
